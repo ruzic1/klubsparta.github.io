@@ -103,7 +103,7 @@ a {
     display: none;
   }
   .slideshow-container {
-    max-width: 100%;
+    /*max-width: 100%;*/
     position: relative;
     height:700px;
     margin: auto;
