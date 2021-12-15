@@ -128,7 +128,6 @@ a {
   }
   img{
     background-position:center center;
-    max-height:600px;
     }
   @keyframes fade {
     from {opacity: .2}
