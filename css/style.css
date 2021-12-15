@@ -106,7 +106,6 @@ a {
     /*max-width: 100%;*/
       width:100%;
     position: relative;
-    height:700px;
     margin: auto;
   }
   .active {
